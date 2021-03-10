@@ -1,4 +1,4 @@
-# Imperium Of Mankind
+# Imperium Of Mankind <img src="https://avatars.githubusercontent.com/u/79642805?s=460&u=87cf807f67480e25b05b7497bbfd4f036d9e2833&v=4" alt="Повелитель человечества" width="64" height="64" align="middle" vspace="16" hspace="10">
 Репозиторий для обучения Питону в рамках курса ОАП
 # Подмодули
 По заданию на 11.03 выбрал следующие подмодули:
@@ -8,5 +8,3 @@
 
 * <span><a href="https://github.com/StudLabs" target="_blank" title="StudLabs"><img src="https://avatars.githubusercontent.com/u/56088924?s=200&v=4" alt="Серебрянников Олег" width="32" height="32" align="middle" vspace="8" hspace="5"></a> - <a href="https://github.com/StudLabs/OAP_tell_about" target="_blank">OAP_tell_about</a> -> by_Serebryannikov</span>
 * Код для оформления описания нагло стырил у <span><a href="https://github.com/StudLabs" target="_blank" title="StudLabs"><img src="https://avatars.githubusercontent.com/u/56088924?s=200&v=4" alt="Серебрянников Олег" width="32" height="32" align="middle" vspace="8" hspace="5"></a>
-
-<img src="https://avatars.githubusercontent.com/u/79642805?s=460&u=87cf807f67480e25b05b7497bbfd4f036d9e2833&v=4" alt="Повелитель человечества" width="320" height="320" align="middle" vspace="80" hspace="50">
