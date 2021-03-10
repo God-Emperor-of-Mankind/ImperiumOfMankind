@@ -1,9 +1,0 @@
-[submodule "OAP_11_1"]
-	path = OAP_11_1
-	url = https://github.com/macJIuHa/OAP_11_1
-[submodule "OAP_tell_about"]
-	path = OAP_tell_about
-	url = https://github.com/StudLabs/OAP_tell_about
-[submodule "oap_progi"]
-	path = oap_progi
-	url = https://github.com/Alisa11110000/oap_progi
