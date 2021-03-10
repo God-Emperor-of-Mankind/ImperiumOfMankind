@@ -1,4 +1,4 @@
-# Imperium Of Mankind <img src="https://cs11.pikabu.ru/images/big_size_comm/2018-11_2/1541766687153697604.jpg" alt="имперская аквилла" width="80" height="30" align="middle" vspace="6" hspace="10">
+# Imperium Of Mankind <img src="https://cs11.pikabu.ru/images/big_size_comm/2018-11_2/1541766687153697604.jpg" alt="имперская аквилла" width="80" height="30" align="middle" vspace="1" hspace="1">
 Репозиторий для обучения Питону в рамках курса ОАП
 # Подмодули
 По заданию на 11.03 выбрал следующие подмодули:
