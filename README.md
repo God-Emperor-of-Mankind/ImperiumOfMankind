@@ -1,4 +1,4 @@
-# Imperium Of Mankind <img src="https://avatars.githubusercontent.com/u/79642805?s=460&u=87cf807f67480e25b05b7497bbfd4f036d9e2833&v=4" alt="Повелитель человечества" width="64" height="64" align="middle" vspace="16" hspace="10">
+# Imperium Of Mankind <img src="https://cs11.pikabu.ru/images/big_size_comm/2018-11_2/1541766687153697604.jpg" alt="Повелитель человечества" width="64" height="64" align="middle" vspace="16" hspace="10">
 Репозиторий для обучения Питону в рамках курса ОАП
 # Подмодули
 По заданию на 11.03 выбрал следующие подмодули:
