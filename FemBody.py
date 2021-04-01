@@ -13,6 +13,8 @@ from stifness_matrix import matrix_priemnyi
 K = matrix_priemnyi(EF1, EF2)
 print("Матрица жескости до введения ГУ" + "\n" + "K:", K)
 
+# Применяем ГУ к матрице
+
 from border_conditions import border_condition
 K = border_condition(K)
 print("Матрица жескости после введения ГУ" + "\n" + "K:", K)
@@ -22,14 +24,5 @@ f = [0, F, 0]
 
 print("f:", f)
 
-# Неизвестное перемещение во втором узле:
-# u2
-u1 = 0
-u2 = f[1] / K[1][1]
-u3 = 0
-
-u = [u1, u2, u3]
-
-print("u:", u)
 
 
