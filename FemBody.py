@@ -13,9 +13,8 @@ from stifness_matrix import matrix_priemnyi
 K = matrix_priemnyi(EF1, EF2)
 print("Матрица жескости до введения ГУ" + "\n" + "K:", K)
 
-from border_conditions import get_input
-
-
+from border_conditions import border_condition
+K = border_condition(K)
 print("Матрица жескости после введения ГУ" + "\n" + "K:", K)
 
 # Вектор внешних узловых усилий:
