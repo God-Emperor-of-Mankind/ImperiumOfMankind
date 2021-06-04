@@ -49,3 +49,5 @@ first_node_force.fnf(u1, u2, EF1)
 
 import second_node_force
 second_node_force.snf(u2, u3, EF2)
+
+input("Для закрытия нажмите Ввод")
